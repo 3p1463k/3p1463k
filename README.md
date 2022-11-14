@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and R.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on cool projects.
-- 📫 How to reach me ...
+- 📫 reach me ...
 
 <!---
 3p1463k/3p1463k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
