@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @3p1463k
+- 👋 Hi, I’m Evzen
 - 👀 I’m interested in Python and R.
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 reach me ...
 
