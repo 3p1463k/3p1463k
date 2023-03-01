@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Evzen
 - 👀 I’m interested in Python and R.
-- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on cool projects.
+- I’m fluent in English, i lived in US for about 20 years.
+- I’m fluent in Czech (where i was born)
+
 - 📫 reach me ...
 
 <!---
